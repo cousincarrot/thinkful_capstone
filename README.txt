@@ -6,7 +6,6 @@ data scientist.
 
 The second pass ('capstone_report_reformat.ipynb') was created to appeal more to the layman, providing initial insights immediately
 and backing up findings later in the presentation with the technical details. It was also suggested I include df.corr() immediately at the
-start of the document to see where the data led me, and then developing questions instead of immediately comparing attributes to shares.
+start of the document to see where the data led me, and then also develop questions based on findings instead of just immediately comparing attributes to shares.
 
-I found the second pass not to reveal much based on the correlation table. I am unsure if this is because the table just doesn't reveal
-anything significant, or if I need to include another approach along with the table.
+At first I found the second pass not to reveal much based on the correlation table. Working with the results, I examined correlations that were relatively high, and added some more statistics and visuals (t-test, heatmap). The questions and conclusions about the data are clearly displayed. A banner with the front page of Mashable.com was included as well.
